@@ -45,7 +45,7 @@ InterniFy
   cd client
   npm i
   ```
-  - Client Side
+- Server Side
    ```bash
   cd server
   npm i
@@ -57,7 +57,7 @@ InterniFy
   cd client
   npm run dev
   ```
-  - Client Side
+- Server Side
    ```bash
   cd server
   nodemon
